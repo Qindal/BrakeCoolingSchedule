@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Brake Cooling Schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="weight">Landing weight</string>
+    <string name="temperature">OAT</string>
+    <string name="speed">Wind corrected brakes on speed (KIAS)</string>
+    <string name="altitude">Pressure altitude</string>
+    <string name="autobrake">Landing brakes</string>
+    <string name="max_man">Max manual</string>
+    <string name="max_auto">Max auto</string>
+    <string name="autobrake3">Autobrake 3</string>
+    <string name="autobrake2">Autobrake 2</string>
+    <string name="autobrake1">Autobrake 1</string>
+    <string name="brake_category">Brake category</string>
+    <string name="brake_category_C">Category C steel brakes</string>
+    <string name="brake_category_N">Category N carbon brakes</string>
+    <string name="time">Cooling time (minutes)</string>
+    <string name="reverse">Reverse thrust</string>
+    <string-array name="landing_brakes">
+        <item>Max manual</item>
+        <item>Max auto</item>
+        <item>Autobrake 3</item>
+        <item>Autobrake 2</item>
+        <item>Autobrake 1</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Category C steel brakes</item>
+        <item>Category N carbon brakes</item>
+    </string-array>
+</resources>
